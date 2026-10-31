@@ -1,0 +1,11 @@
+*.zip
+*.rar
+dataset/
+raw/
+checkpoints/
+*.pt
+!demo_app/final_model.pt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
