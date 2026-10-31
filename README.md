@@ -21,7 +21,7 @@ Course project for Soft Computing.
 | Test accuracy | 95.4% (validation 94.6%) |
 | Test macro-F1 | 0.948  |
 | FNR | 2.9% of diseased test photos |
-| With confidence threshold of 0.80 | 97.9% accuracy |
+| With confidence threshold of 0.80 | 97.9% accuracy (coverage of 87.7%) |
 
 
 ## Run the demo
