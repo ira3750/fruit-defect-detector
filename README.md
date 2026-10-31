@@ -8,8 +8,8 @@ Course project for Soft Computing.
 
 ## App Interface
 
-<img src="results/app1.png" width="400">
-<img src="results/app2.png" width="400">
+<img src="results/app1.png" width="500">
+<img src="results/app2.png" width="500">
 
 
 ## Results
