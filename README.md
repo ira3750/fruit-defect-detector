@@ -6,6 +6,13 @@ Below 80% confidence it says "not sure" and recommends asking an expert.
 
 Course project for Soft Computing. 
 
+## App Interface
+
+![Application Interface 2](results/app1.png)
+
+![Application Interface 2](results/app2.png)
+
+
 ## Results
 
 | | Value |
