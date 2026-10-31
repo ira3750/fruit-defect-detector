@@ -1,0 +1,12 @@
+{
+  "run": "baseline_none_frozen",
+  "config": {
+    "aug": "none",
+    "mode": "frozen",
+    "epochs": 10,
+    "seed": 42
+  },
+  "epoch": 10,
+  "val_loss": 0.1689118808756272,
+  "val_acc": 0.9458333333333333
+}

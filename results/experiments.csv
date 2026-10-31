@@ -1,0 +1,8 @@
+run,augmentation,finetune_mode,epochs,best_epoch,seed,sec_per_epoch,val_acc,val_macro_f1,miss_rate,false_alarm_rate,weakest_class,weakest_recall,most_confused,notes
+baseline_none_frozen,none,frozen,10,10,42,71.2,0.9458,0.9389,0.0449,0.0383,Powdery Mildew,0.8701,Powdery Mildew -> Healthy (10 images),week 3 pipeline check; compare with the Week 2 baseline
+baseline_none_frozen_seed1,none,frozen,10,10,1,72.7,0.9479,0.942,0.0327,0.0468,Powdery Mildew,0.8961,Healthy -> Powdery Mildew (9 images),
+baseline_none_frozen_seed2,none,frozen,10,10,2,73.9,0.9396,0.9332,0.0449,0.0511,Powdery Mildew,0.8701,Powdery Mildew -> Healthy (10 images),
+aug_light_frozen,light,frozen,10,10,42,72.8,0.9313,0.9267,0.0571,0.0596,Powdery Mildew,0.8571,Healthy -> Powdery Mildew (11 images),
+aug_aggressive_frozen,aggressive,frozen,10,9,42,82.8,0.9146,0.9041,0.1061,0.0383,Powdery Mildew,0.7403,Powdery Mildew -> Healthy (20 images),
+ft_lastblock_none,none,last_block,10,2,42,83.6,0.95,0.9435,0.0449,0.034,Powdery Mildew,0.8831,Powdery Mildew -> Healthy (9 images),
+ft_full_none,none,full,10,3,42,82.7,0.95,0.9445,0.0367,0.0426,Powdery Mildew,0.9091,Healthy -> Powdery Mildew (7 images),

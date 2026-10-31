@@ -1,0 +1,14 @@
+{
+  "run": "baseline_none_frozen",
+  "metrics": {
+    "val_acc": 0.9539748953974896,
+    "val_macro_f1": 0.9476249289682126,
+    "miss_rate": 0.028688524590163935,
+    "false_alarm_rate": 0.029914529914529916,
+    "weakest_class": "Black Rot",
+    "weakest_recall": 0.9108910891089109,
+    "most_confused": "Black Rot -> Black Pox (4 images)"
+  },
+  "n_images": 478,
+  "date": "2026-10-29 11:59"
+}
